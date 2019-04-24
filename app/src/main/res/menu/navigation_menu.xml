@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Populate drawer with items-->
+    <item android:id="@+id/create_contacts"
+          android:icon="@drawable/contact_icon"
+          android:title="@string/contact_title"/>
+
+    <item android:id="@+id/edit_user_settings"
+          android:icon="@drawable/settings_icon"
+          android:title="@string/settings_title"/>
+</menu>
